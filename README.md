@@ -1,5 +1,6 @@
-### Hi there!👋
-I'm YUVANDHIGA A
+### Hi there!👋 
+<b>I'm YUVANDHIGA A</b>
+
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on fun projects
 - 📫 Reach me:yuvandhigaannadurai@gmail.com
