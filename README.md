@@ -1,14 +1,9 @@
 ### Hi there!👋
-
-<!--
-**YUVANDHIGA-2003/YUVANDHIGA-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+I'm YUVANDHIGA A
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on fun projects
 - 📫 Reach me:yuvandhigaannadurai@gmail.com
 
--->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
