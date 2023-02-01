@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on fun projects
-- 📫 Reach me:yuvandhigaannadurai@gmail.com
+- 📫 Reach me at:yuvandhigaannadurai@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
